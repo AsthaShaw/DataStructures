@@ -33,3 +33,8 @@ ArrayList Big O
 - add and remove at end of the array list is O(1)
 - add and remove at the beginning of the arraylist O(n) as reindexing is needed.
 - Looking for an item by value is O(n) but looking via index is O(1)
+
+Very good resource for Big O
+- https://www.bigocheatsheet.com/
+
+Study on space complexity??
