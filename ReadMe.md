@@ -38,3 +38,44 @@ Very good resource for Big O
 - https://www.bigocheatsheet.com/
 
 Study on space complexity??
+
+### Big O
+
+- As ‘n’ grows the number of operations remains the same, and hence it is 0(1)
+
+```jsx
+public class Experiment {
+
+    public static void main(String[] args) {
+        addItems(10);
+    }
+    
+    public static int addItems(int n){
+        return n + n;
+    }
+}
+
+```
+
+## ArrayList vs LinkedList
+
+- LinkedList no indexing like arrayList as LL are all over in the memory and pointers links the nodes unlike arraylist which has contiguous place in memory
+- LL has head and tail pointers which point to first and last node respectively while ArrayList does not
+
+## Big O of Linked List
+
+- Adding to end of the list is O(1)
+- Adding to the beginning of the list is O(1)
+- Removing a node from the beginning of the list O(1)
+- Removing end node - O(n)
+- Inserting and Removing in the middle of the list is O(n)
+- Searching for a node index wise or value wise is O(n)
+
+[LL+Big+O.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80a6b46e-3c37-495b-a38f-8fd7c97e0f4f/b89fc86c-68f6-4c14-bf17-bd1ccdf52e7c/LLBigO.pdf)
+
+Node = value + pointer
+
+HasLoop problem-Not convinced with the solution-Floyd's Tortoise and Hare algorithm.
+
+
+

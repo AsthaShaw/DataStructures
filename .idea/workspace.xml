@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725fb17a-4758-49c2-a479-203832147ecd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructuresUpdated.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/FindMiddleNode/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/FindMiddleNode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/HasLoop/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/HasLoop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LLMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +32,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gSTYFTEOxHgM0ab8uT0NSgcgKl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +43,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LLMain.executor": "Run",
+    "Application.LinkedList.FindMiddleNode.Main.executor": "Run",
+    "Application.LinkedList.HasLoop.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -56,7 +57,46 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LinkedList.HasLoop.Main">
+    <configuration name="LLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.LLMain" />
+      <module name="DataStructuresUpdated" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList.FindMiddleNode.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.FindMiddleNode.Main" />
+      <module name="DataStructuresUpdated" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.FindMiddleNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList.HasLoop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.HasLoop.Main" />
+      <module name="DataStructuresUpdated" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.HasLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DataStructuresUpdated" />
@@ -66,6 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList.HasLoop.Main" />
+        <item itemvalue="Application.LinkedList.FindMiddleNode.Main" />
+        <item itemvalue="Application.LLMain" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
