@@ -92,6 +92,19 @@ public class LinkedList {
         return temp;
     }
 
+    //way 2 more optimised- tortoise and hare problem
 
+    public Node findMiddleNode2(){
+        Node slow=head;
+        Node fast=head;
+
+        while(fast!=null && fast.next!=null){
+
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+
+        return slow;
+    }
 
 }

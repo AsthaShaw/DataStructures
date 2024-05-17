@@ -75,7 +75,12 @@ public class Experiment {
 
 Node = value + pointer
 
-HasLoop problem-Not convinced with the solution-Floyd's Tortoise and Hare algorithm.
+Floyd's Tortoise and Hare algorithm Implementation - slow and fast pointers
+
+1. FindMiddleNode
+2. HasLoop
+
+Detect loops in LinkedList-done another way
 
 
 

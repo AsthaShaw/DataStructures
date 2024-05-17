@@ -83,12 +83,6 @@ public class LinkedList {
         Node slow=head;
         Node fast=head;
 
-        if(getLength()!=0 && tail.next!=null){
-            if(head==tail.next){
-                return true;
-            }
-
-        }
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;

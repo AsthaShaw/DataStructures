@@ -11,9 +11,10 @@ public class Main {
         linkedList.append(6);
         linkedList.append(7);
         linkedList.append(8);
-        linkedList.printList();
+        //linkedList.printList();
 
         System.out.println(linkedList.findMiddleNode().value);
+        System.out.println(linkedList.findMiddleNode2().value);
 
     }
 }
