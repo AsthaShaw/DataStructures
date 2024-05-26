@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725fb17a-4758-49c2-a479-203832147ecd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/FindMiddleNode/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/FindMiddleNode/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/FindMiddleNode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/FindMiddleNode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/HasLoop/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/HasLoop/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,7 @@
   "keyToString": {
     "Application.LLMain.executor": "Run",
     "Application.LinkedList.FindMiddleNode.Main.executor": "Run",
+    "Application.LinkedList.FindTheKthNodeFromEnd.Main.executor": "Run",
     "Application.LinkedList.HasLoop.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedList.FindMiddleNode.Main">
+  <component name="RunManager" selected="Application.LinkedList.FindTheKthNodeFromEnd.Main">
     <configuration name="LLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.LLMain" />
       <module name="DataStructuresUpdated" />
@@ -74,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LinkedList.FindMiddleNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList.FindTheKthNodeFromEnd.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.FindTheKthNodeFromEnd.Main" />
+      <module name="DataStructuresUpdated" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.FindTheKthNodeFromEnd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList.FindTheKthNodeFromEnd.Main" />
         <item itemvalue="Application.LinkedList.FindMiddleNode.Main" />
         <item itemvalue="Application.LinkedList.HasLoop.Main" />
         <item itemvalue="Application.LLMain" />
@@ -153,6 +165,36 @@
           <url>file://$PROJECT_DIR$/src/BinaryTree.java</url>
           <line>48</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/FindTheKthNodeFromEnd/LinkedList.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
