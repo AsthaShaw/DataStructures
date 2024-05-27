@@ -30,6 +30,7 @@ public class LLMain {
         linkedList.printList();
         System.out.println(linkedList.remove(2));
         linkedList.printList();
+
     }
 
 
