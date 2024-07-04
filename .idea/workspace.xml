@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725fb17a-4758-49c2-a479-203832147ecd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicates/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicates/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="725fb17a-4758-49c2-a479-203832147ecd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

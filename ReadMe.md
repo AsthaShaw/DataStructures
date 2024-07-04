@@ -82,5 +82,16 @@ Floyd's Tortoise and Hare algorithm Implementation - slow and fast pointers
 
 Detect loops in LinkedList-done another way
 
+## Stack
 
+ArrayList implementation of Stack
+
+- O(1) adding and removing from the top of the stack
+- O(n) adding and removing to the bottom of the stack
+
+LinkedList Implementation of Stack
+
+- O(n) to remove an item end of the linkedlist which would be top of the stack and O(1) to put this back on
+- Both removing and adding at the beginning of LinkedList is of O(1). Hence removeFirst and prepend method would be of use except that those would be called pop and push now.
+- So whenever we look at a linkedlist implementation of stack then we reverse it in a way that the pointer to null faces downward and we need the ‘top’ pointer pointing to the top of the stack while the bottom has a null pointer. The null position reversed to accomodate the implementation of stack.
 
