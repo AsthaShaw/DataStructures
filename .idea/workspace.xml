@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725fb17a-4758-49c2-a479-203832147ecd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/PartitionList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/PartitionList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicates/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicates/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LLMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LLMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,38 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LLMain.executor": "Run",
-    "Application.LinkedList.FindMiddleNode.Main.executor": "Run",
-    "Application.LinkedList.FindTheKthNodeFromEnd.Main.executor": "Run",
-    "Application.LinkedList.HasLoop.Main.executor": "Run",
-    "Application.LinkedList.PartitionList.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/asthashaw/IdeaProjects/DataStructuresUpdated/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LLMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.FindMiddleNode.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.FindTheKthNodeFromEnd.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.HasLoop.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.PartitionList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/asthashaw/IdeaProjects/DataStructuresUpdated/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedList.PartitionList.Main">
-    <configuration name="LLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LLMain" />
-      <module name="DataStructuresUpdated" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LinkedList.FindMiddleNode.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.FindMiddleNode.Main" />
       <module name="DataStructuresUpdated" />
@@ -121,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks.Main" />
+      <module name="DataStructuresUpdated" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.LinkedList.PartitionList.Main" />
         <item itemvalue="Application.LinkedList.FindTheKthNodeFromEnd.Main" />
         <item itemvalue="Application.LinkedList.FindMiddleNode.Main" />
         <item itemvalue="Application.LinkedList.HasLoop.Main" />
-        <item itemvalue="Application.LLMain" />
       </list>
     </recent_temporary>
   </component>
