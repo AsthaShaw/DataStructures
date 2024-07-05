@@ -95,3 +95,15 @@ LinkedList Implementation of Stack
 - Both removing and adding at the beginning of LinkedList is of O(1). Hence removeFirst and prepend method would be of use except that those would be called pop and push now.
 - So whenever we look at a linkedlist implementation of stack then we reverse it in a way that the pointer to null faces downward and we need the ‘top’ pointer pointing to the top of the stack while the bottom has a null pointer. The null position reversed to accomodate the implementation of stack.
 
+## Queue
+
+ArrayList implementation of Queue
+
+- On one end the remove and end operation with result in O(1) and the other end O(n)
+
+LinkedList implementation of Queue
+
+- O(1) for both first and last pointers
+
+- enqueue method is adding some thing to the queue
+- dequeue method is removing something from the front of the queue
